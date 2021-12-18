@@ -182,7 +182,7 @@ main .site-title {
 main .site-title .site-background {
   padding-top: 10rem;
   text-align: center;
-  color: black;
+  color: var(--midnight);
 }
 
 main .site-title h1,
